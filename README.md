@@ -21,7 +21,7 @@ This project analyzes Blinkit sales data to uncover insights about sales perform
 - 69% orders on time, 31% delayed (20.93% slightly, 10.08% significantly).
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/Dashboard_Preview.png)
 
 ## 👤 Author
 **Amr Abdelhamid Elbrolosy**
